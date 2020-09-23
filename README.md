@@ -1,4 +1,4 @@
-# Reposi3
+# 75Y
 A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootstrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
 Most data for this repo is stored on XML files and are loaded on the depiction page dynamically. See the guide below on how to set it up. Note that this guide doesn't cover creating .deb files but will briefly cover assiging depictions.
@@ -24,14 +24,14 @@ You can change `repo` to anything you want, like `cydia` for example. So your re
 
 Edit `Release` file. Modify the items pointed by `<--`
 
-    Origin: Reposi3  <--
-    Label: Reposi3   <--
+    Origin: 75Y  <--
+    Label: 75Y   <--
     Suite: stable
     Version: 1.0
     Codename: ios
     Architectures: iphoneos-arm
     Components: main
-    Description: Reposi3 - a cydia repo template  <--
+    Description: 75Y - a cydia repo template  <--
 
 **Branding**
 
