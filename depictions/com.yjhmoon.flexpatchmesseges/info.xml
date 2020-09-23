@@ -1,0 +1,24 @@
+<package>
+	<id>com.yjhmoon.flexpatchmesseges</id>
+	<name>flexpatchmesseges</name>
+	<version>0.0.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>flexpatchmesseges
+        </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
